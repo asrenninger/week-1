@@ -8,11 +8,9 @@
 - Using Jupyter Notebooks
 - Introduction to Pandas
 
-## Initial Survey
+## Initial Surveys
 
 Please fill out this anonymous survey for some initial feedback:
-
-https://www.surveymonkey.com/r/BGK3S6Y
 
 ## Recommended Readings
 
