@@ -8,7 +8,7 @@
 - Using Jupyter Notebooks
 - Introduction to Pandas
 
-## Initial Surveys
+## Initial Survey
 
 Please fill out this anonymous survey for some initial feedback:
 
