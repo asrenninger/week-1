@@ -1,6 +1,6 @@
 # Week 1<br>Exploratory Data Science in Python
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-1/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-1/master?filepath=lecture-1.ipynb)
 
 ## Topics
 
@@ -11,6 +11,8 @@
 ## Initial Surveys
 
 Please fill out this anonymous survey for some initial feedback:
+
+https://www.surveymonkey.com/r/TSVNMGP
 
 ## Recommended Readings
 
@@ -26,7 +28,13 @@ Particularly for the Data Science Handbook, there is too much to get through in 
 
 ## Python tutorials
 
-There are a few good resources from the Berkeley Data Science Institute:
+A number of resources are listed on [the course website](https://musa-550-fall-2020.github.io/resources/python/)
+
+Recommend tutorial for students with little Python background:
+
+- [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
+
+There are also a few good resources from the Berkeley Data Science Institute:
 
 - https://bids.github.io/2016-01-14-berkeley/python/00-python-intro.html ([notebook version](https://bids.github.io/2016-01-14-berkeley/python/00-python-intro.ipynb))
 - [Python for Social Science, a free online book](https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/index.html)
@@ -49,3 +57,5 @@ There are a few good resources from the Berkeley Data Science Institute:
 - [Tidy Data](https://en.wikipedia.org/wiki/Tidy_data)
 - [Joining Datasets](joining_infographic.jpg)
 - [ZIllow Data](https://www.zillow.com/research/data/)
+- [Introduction to writing your first Python program](https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/02_Hello_world.html)
+- [Visual Studio Code](https://code.visualstudio.com/download)
